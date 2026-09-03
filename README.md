@@ -13,4 +13,4 @@ Open parent folder with Unity
 - Click on a non-movable square to deselect the piece
 - Click on a movable square to move or capture a piece. This ends your turn
 - Adjust settings in physical board to play as any colour, and against my bot, or locally
-  <img width="195" height="61" alt="image" src="https://github.com/user-attachments/assets/5e01a0d7-431a-4baa-8267-e664f3b2c051" />
+<img width="195" height="61" alt="image" src="https://github.com/user-attachments/assets/5e01a0d7-431a-4baa-8267-e664f3b2c051" />
